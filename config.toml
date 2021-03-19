@@ -1,4 +1,4 @@
-baseurl = "https://www.oddsocado.com/" # Make sure to end baseurl with a '/'
+baseurl = "https://www.oddsocado.github.io/" # Make sure to end baseurl with a '/'
 title = "Oddsocado"
 # Shown in the side menu
 copyright = "&copy; 2021. All rights reserved."
